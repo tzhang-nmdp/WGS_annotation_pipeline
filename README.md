@@ -1,7 +1,9 @@
 # WGS_annotation_pipeline
 ## Requirement
 ANNOVAR package:https://www.openbioinformatics.org/annovar/annovar_download_form.php
+
 SNPEFF package: https://pcingola.github.io/SnpEff/download
+
 CADD package: https://cadd.bihealth.org/download
 
 Master script: run_variant_annotation.sh
